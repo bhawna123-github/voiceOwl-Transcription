@@ -8,7 +8,7 @@ A minimal Node.js + TypeScript backend that mocks audio transcription, stores re
 
 ### 🪄 1. Clone & Install
 ```bash
-git clone <your_repo_url>
+git clone https://github.com/bhawna123-github/voiceOwl-Transcription
 cd voiceowl-backend
 npm install
 
